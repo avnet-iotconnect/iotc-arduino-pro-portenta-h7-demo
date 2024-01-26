@@ -189,7 +189,7 @@ If the IDE connects to your board, the 'Upload' button will compile and download
 # View the Telemetry
 Once the downloader has finished, open the **'Serial Monitor'** to see the messages to/from the H7 viewable at the bottom of the Arduino IDE
 
-![image](https://github.com/avnet-iotconnect/iotc-arduino-pro-portenta-c33-demo/assets/49933990/31172848-ff68-4237-9df8-b096efff427d)
+![image](https://github.com/avnet-iotconnect/iotc-arduino-pro-portenta-h7-demo/assets/49933990/d63635d5-db82-4ca6-b8c9-d20e6b9b19a4)
 
 
 
@@ -202,7 +202,7 @@ View the data on IoTConnect by navigating to Devices->Device->Live Data in your 
 # Send a Command
 Click on **'Command'** on the left.  The screen below will be shown:
 
-![image](https://github.com/avnet-iotconnect/iotc-arduino-pro-portenta-c33-demo/assets/49933990/1435c583-9d0a-4b06-a1ff-2fdf1eab48ff)
+![image](https://github.com/avnet-iotconnect/iotc-arduino-pro-portenta-h7-demo/assets/49933990/5cbee61f-19de-4334-b97b-9d9f8e04aab8)
 
 On the **'Command'** drop down select **'Send Line'** which simply sends whatever you type in the **'Parameter Value'** field.
 Click on **'Execute Command'** button and your text should show up in the **'Serial Monitor'**.
