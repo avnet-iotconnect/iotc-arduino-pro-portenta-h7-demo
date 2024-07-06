@@ -1,0 +1,42 @@
+{
+    "code": "PH7",
+    "name": "PortH7",
+    "authType": 2,
+    "attributes": [
+        {
+            "name": "text",
+            "type": "STRING",
+            "description": "Random String",
+            "unit": null,
+            "attributeColor": "#ab149e"
+        },
+        {
+            "name": "Temperature",
+            "type": "INTEGER",
+            "description": "Temp",
+            "unit": "F",
+            "attributeColor": "#f44e3b"
+        }
+    ],
+    "commands": [
+        {
+            "name": "Send Line",
+            "command": "Text Sent:",
+            "requiredParam": true,
+            "requiredAck": false,
+            "isOTACommand": false
+        }
+    ],
+    "messageVersion": "2.1",
+    "msgCode": "XG4EB1Y",
+    "greenGrass": "0",
+    "wireless": "0",
+    "properties": {
+        "description": null,
+        "dataFrequency": "15",
+        "fileSupport": false
+    },
+    "_meta": {
+        "version": "2.0"
+    }
+}
